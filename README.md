@@ -45,14 +45,7 @@ EMAIL        - string
 #### Excluir Cadastro de Cliente ```[4]```:
 
 Aqui é necessário passar o ```ID``` do usuário que deseja Excluir
-```
-ID           - int
-NOME         - string
-EMPRESA      - string
-DEPARTAMENTO - string
-TELEFONE     - string
-EMAIL        - string
-```
+
 
 #### Salvar informações e Sair  ```[0]```:
 
