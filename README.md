@@ -12,6 +12,7 @@ clientes.txt
 Caso exista, o programa fará backup das informações, salvando os dados coletados em uma nova lista encadeada<br/>mantendo a estrutura do programa, logo depois inicializando o menu principal.<br/>
 Caso não exista, o programa inicializará com o menu principal:
 
+<img src="./img1.png"/>
 
 #### Novo Cadastro de Cliente ```[1]```:
 ```
